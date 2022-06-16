@@ -11,6 +11,6 @@ for problem setting up source control in Matlab see:
 
 ## Resources
 
-1. https://github.com/yli262/tour-into-the-picture contains equations for scene dimensions and plane positions calculation, inpaint (foreground masking).
+1. https://github.com/yli262/tour-into-the-picture contains equations for scene dimensions and plane positions calculation, inpaint (foreground masking). Code in Javascript.
 2. https://owenjow.xyz/graphics/1948/  contains equations for scene dimensions and plane positions calculation
 3. https://github.com/kc885/Tour-Into-The-Picture C++ code for Tour into the Picture algorithm
