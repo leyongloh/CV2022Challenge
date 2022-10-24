@@ -41,3 +41,5 @@ The rotation angle values are given in degrees, and limited to +/-45 degrees to 
 ## Required Toolboxes
 * Computer Vision Toolbox
 * Image Processing Toolbox
+
+![plot](./CV2022.png)
